@@ -79,8 +79,8 @@ project-root/ (수정 필요)
 
 ### 📧 CONTACT
 궁금한 점이나 제안 사항이 있으시면 아래로 연락주세요.
-- Email : email@example.com
-- GitHub : @examplename
+- Email : seunghyeok.tech@gmail.com
+- GitHub : @seunghyeokleeme
 
 ---
 
